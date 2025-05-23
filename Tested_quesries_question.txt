@@ -1,0 +1,12 @@
+Managing director:
+1) List all of the Furniture for a user entered supplier e.g IKEA (interactive sql)
+2) List all staff details for all managers in appropriate groupings 
+3) List all staff ordered by branch and yearly salary 
+4) Create an interactive query utilising the rank command in an appropriate manner for your
+assigned role. 
+5) You should design, implement, document and demonstrate a query demonstrating the application
+of the decode function in a manner appropriate to your assigned role. 
+6) Create a brief sql report demonstrating appropriate functionality for the assigned role. 
+marks)
+7) Create a multi page, interactive sql report demonstrating use of views to present a summary
+style management information report suitable for the assigned role
